@@ -41,3 +41,10 @@ p{
     color: white;
     font-style: italic;
 }
+
+#footer-msg{
+    background:linear-gradient(#0081CF, #00C9A7);
+    color: rebeccapurple;
+    font-style: italic;
+    height: 24px;
+}
