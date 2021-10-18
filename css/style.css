@@ -33,7 +33,7 @@ p{
 }
 
 #footer-msg{
-    background-color: #00C9A7;
+    background:linear-gradient(#0081CF, #00C9A7);
     color: rebeccapurple;
     font-style: italic;
     height: 24px;
