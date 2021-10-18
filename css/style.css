@@ -11,7 +11,6 @@ main{
 ul {
   display:flex ;
   list-style: none;
-  background:linear-gradient(#0081CF, #008F7A);
   height: 50px;
   border-radius: 10px;
   border-width: 30px;
@@ -29,15 +28,23 @@ li{
     margin: auto;
     font-style: italic;
     height: 22px;
-    width: 80px;
+    width: 100px;
     border-radius: 5%;
       border: 1px solid white;
 
 }
 h1{
-    color: deeppink;
+    color: rebeccapurple;
+    font-size: 30px;
 }
 p{
     color: white;
     font-style: italic;
+}
+
+#footer-msg{
+    background-color: #00C9A7;
+    color: rebeccapurple;
+    font-style: italic;
+    height: 24px;
 }
