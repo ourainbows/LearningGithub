@@ -14,6 +14,11 @@ ul {
   background:linear-gradient(#0081CF, #008F7A);
   height: 50px;
 }
+img{
+    height:30px;
+    display: block;
+    margin: auto;
+}
 li{
     background-color: #00C9A7;
     color: rebeccapurple;
