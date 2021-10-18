@@ -13,6 +13,9 @@ ul {
   list-style: none;
   background:linear-gradient(#0081CF, #008F7A);
   height: 50px;
+  border-radius: 10px;
+  border-width: 30px;
+  border: 1px solid white;
 }
 img{
     height:30px;
@@ -28,6 +31,8 @@ li{
     height: 22px;
     width: 80px;
     border-radius: 5%;
+      border: 1px solid white;
+
 }
 h1{
     color: deeppink;
