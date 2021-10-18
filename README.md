@@ -9,7 +9,5 @@ Lo que podremos encontrar en el curso es :
 - Explicación basica sobre como hacer deployment
 - GitHub Pages 
 - Y mucho más... 
-
-------------
 ## Acerca de la pagina Web
 Esta fue creada para fines de poder seguir el proyecto asi que su diseño es bastante sencillo.
