@@ -16,4 +16,4 @@ Encantado de ver a mis valientes caballeros en un nuevo lucero
 No se que estaba escribiendo aqui pero volvimos!! Despues de mucho tiempo
 
 
-Cambios hechos en main
+Cambios hechos en main por tercera vez, la anterior perdimos los cambios por no hacer commit
