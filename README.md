@@ -8,6 +8,8 @@ Lo que podremos encontrar en el curso es :
 - Trabajo colaborativo en GitHub
 - Explicación basica sobre como hacer deployment
 - GitHub Pages 
+- Herramientas interactivas de git
+- Incluye ejemplos en Windows, Linux y Mac
 - Y mucho más... 
 ## Acerca de la pagina Web
 Esta fue creada para fines de poder seguir el proyecto asi que su diseño es bastante sencillo.
