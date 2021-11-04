@@ -12,4 +12,4 @@ Lo que podremos encontrar en el curso es :
 - Incluye ejemplos en Windows, Linux y Mac
 - Y mucho más... 
 ## Acerca de la pagina Web
-Esta fue creada para fines de poder seguir el proyecto asi que su diseño es bastante sencillo.
+La pagina html fue creada para fines de poder seguir el proyecto asi que su diseño es sencillo y su redacción carece de coherencia.
